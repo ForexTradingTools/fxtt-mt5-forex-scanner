@@ -92,7 +92,7 @@ A configurable **per-symbol cooldown** (in hours) prevents alert spam when a con
 
 ## 🚀 Installation
 
-1. Download `FXTT_Fx_Scanner.ex5` from the [Releases](../../releases) page  
+1. Download `FXTT_Fx_Scanner.ex5` from the [Releases](https://github.com/ForexTradingTools/fxtt-mt5-forex-scanner/releases) page
    *(or compile `FXTT_Fx_Scanner.mq5` yourself in the MetaEditor)*
 2. Open MT5 → **File → Open Data Folder**
 3. Navigate to `MQL5/Indicators/`
@@ -214,6 +214,16 @@ A configurable **per-symbol cooldown** (in hours) prevents alert spam when a con
 5. **Monitor volatility regime** — ATR % above 100% means the current bar is more volatile than average — useful for sizing or timing
 6. **Filter by spread** — Avoid entering on pairs with unusually wide spreads, especially during low-liquidity sessions
 7. **Set alerts and step away** — Configure RSI, Stochastic, or MA Cross alerts with push notifications and let the scanner monitor your full watchlist for you
+
+---
+
+## 🖥️ Compatibility
+
+- **Platform:** MetaTrader 5 (MT5)
+- **File type:** `.ex5` compiled file / `.mq5` source file
+- **Version:** 1.30
+- **Instruments:** Forex, gold, indices, crypto, and other MT5-supported symbols
+- **Install folder:** `MQL5/Indicators/`
 
 ---
 
