@@ -298,6 +298,22 @@ Yes — see the [FxTT Multi-purpose Forex Scanner for MT4](https://forextradingt
 
 ---
 
+## Related FxTT repositories
+
+The public FxTT indicator family is split across these repositories:
+
+- [FxTT MT4 Forex Scanner](https://github.com/ForexTradingTools/fxtt-mt4-forex-scanner)
+- [FxTT MTF Triple MA MT5](https://github.com/ForexTradingTools/fxtt-mt5-mtf-triple-moving-averages)
+- [FxTT Pivot Points MT5](https://github.com/ForexTradingTools/fxtt-mt5-pivot-points)
+- [FxTT Session High/Low MT5](https://github.com/ForexTradingTools/fxtt-mt5-session-high-low)
+- [FxTT News Calendar MT5](https://github.com/ForexTradingTools/fxtt-mt5-news-calendar)
+- [FxTT ZigZag Zones MT5](https://github.com/ForexTradingTools/fxtt-mt5-zig-zag-zones)
+- [FxTT MTF Bollinger Bands MT4](https://github.com/ForexTradingTools/fxtt-mt4-mtf-bollinger-bands)
+- [FxTT MTF Bollinger Bands MT5](https://github.com/ForexTradingTools/fxtt-mt5-mtf-bollinger-bands)
+- [FxTT MTF Triple MA MT4](https://github.com/ForexTradingTools/fxtt-mt4-mtf-triple-moving-averages)
+- [FxTT Strategy Checklist MT4](https://github.com/ForexTradingTools/fxtt-mt4-strategy-checklist)
+- [FxTT Strategy Checklist MT5](https://github.com/ForexTradingTools/fxtt-mt5-strategy-checklist)
+
 ## 📄 License
 
 This project is licensed under the **MIT License** — you are free to use, modify, and distribute this code, provided the original copyright notice is retained.
