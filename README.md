@@ -9,7 +9,7 @@
 
 > A free, open-source MT5 multi-pair scanner that shows Price, Spread, Swap, ATR, Volume, RSI, Stochastic, ADX, Pivot Points, MA direction, and MA Cross status for your entire watchlist — on a single auto-refreshing on-chart dashboard. With built-in alerts and push notifications.
 
-![FxTT MT5 Forex Scanner](https://forextradingtools.eu/wp-content/uploads/2026/03/Fx-Scanner-screenshot.png)
+![FxTT MT5 Forex Scanner dashboard](screenshots/scanner-dashboard.png)
 
 ---
 
