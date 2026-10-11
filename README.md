@@ -19,7 +19,7 @@ The **FxTT MT5 Forex Scanner** is a free multi-pair indicator for MetaTrader 5 t
 
 Built by me [Carlos Oliveira](https://forextradingtools.eu) and used as part of my own live trading workflow, the scanner is designed for traders who want instant, market-wide awareness: which pairs are approaching overbought or oversold extremes, which are trending strongly, and which have just crossed moving averages — without opening a single extra chart.
 
-**Product page & documentation:** [forextradingtools.eu/products/indicators/mt5-forex-scanner-free](https://forextradingtools.eu/products/indicators/mt5-forex-scanner-free/)
+**Product page & documentation:** [forextradingtools.eu/en/marketplace/mt5-forex-scanner](https://forextradingtools.eu/en/marketplace/mt5-forex-scanner)
 
 ---
 
@@ -86,7 +86,7 @@ A configurable **per-symbol cooldown** (in hours) prevents alert spam when a con
 - **Version:** 1.30 (March 2026)
 - **Instruments:** Forex, gold, indices, crypto, and all MT5-supported symbols
 
-> ⚠️ This indicator is **MT5 only** and is not compatible with MT4. For the MT4 version, see [FxTT Multi-purpose Forex Scanner for MT4](https://forextradingtools.eu/products/indicators/forex-scanner-free/).
+> ⚠️ This indicator is **MT5 only** and is not compatible with MT4. For the MT4 version, see [FxTT Multi-purpose Forex Scanner for MT4](https://forextradingtools.eu/en/marketplace/forex-scanner).
 
 ---
 
@@ -294,7 +294,7 @@ This is the Hide Chart Elements feature. Disable it in settings to keep your exi
 Yes. The indicator runs normally on a VPS and continues scanning and alerting as long as MT5 is running.
 
 **Is there an MT4 version?**  
-Yes — see the [FxTT Multi-purpose Forex Scanner for MT4](https://forextradingtools.eu/products/indicators/forex-scanner-free/).
+Yes — see the [FxTT Multi-purpose Forex Scanner for MT4](https://forextradingtools.eu/en/marketplace/forex-scanner).
 
 ---
 
@@ -326,12 +326,12 @@ See [LICENSE](./LICENSE) for details.
 
 All free indicators and EAs from Forex Trading Tools:
 
-- 🔗 [FxTT Multi-purpose Forex Scanner – Free MT4 Indicator](https://forextradingtools.eu/products/indicators/forex-scanner-free/)
-- 🔗 [Strategy Checklist – Free MT4 Indicator](https://forextradingtools.eu/products/indicators/strategy-checklist-free-indicator/)
-- 🔗 [MTF Triple Moving Averages – Free MT4 Indicator](https://forextradingtools.eu/products/indicators/mtf-triple-moving-averages-free-indicator/)
-- 🔗 [MTF Bollinger Bands – Free MT4 Indicator](https://forextradingtools.eu/products/indicators/mtf-bollinger-bands-indicator/)
-- 🔗 [MTF Bollinger Bands MT5 – Free MT5 Indicator](https://forextradingtools.eu/products/indicators/mtf-bollinger-bands-mt5-indicator/)
-- 🔗 [Pivot Points – Free MT5 Indicator](https://forextradingtools.eu/products/indicators/pivot-points-mt5-free/)
+- 🔗 [FxTT Multi-purpose Forex Scanner – Free MT4 Indicator](https://forextradingtools.eu/en/marketplace/forex-scanner)
+- 🔗 [Strategy Checklist – Free MT4 Indicator](https://forextradingtools.eu/en/marketplace/strategy-checklist)
+- 🔗 [MTF Triple Moving Averages – Free MT4 Indicator](https://forextradingtools.eu/en/marketplace/mtf-triple-ma)
+- 🔗 [MTF Bollinger Bands – Free MT4 Indicator](https://forextradingtools.eu/en/marketplace/mtf-bollinger-bands)
+- 🔗 [MTF Bollinger Bands MT5 – Free MT5 Indicator](https://forextradingtools.eu/en/marketplace/mtf-bollinger-bands-mt5)
+- 🔗 [Pivot Points – Free MT5 Indicator](https://forextradingtools.eu/en/marketplace/pivot-points-mt5)
 
 ---
 
